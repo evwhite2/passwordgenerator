@@ -1,1 +1,1 @@
-# passwordgenerator.io
+# passwordgenerator
